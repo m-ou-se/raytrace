@@ -1,0 +1,15 @@
+[package]
+name = "raytrace"
+version = "0.1.0"
+authors = ["Mara Bos <m-ou.se@m-ou.se>"]
+edition = "2018"
+
+[dependencies]
+png = "0.16.7"
+rand = "0.7.3"
+
+[profile.dev]
+opt-level = 3
+
+[profile.test]
+opt-level = 3
