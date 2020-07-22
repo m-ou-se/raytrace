@@ -2,4 +2,4 @@ A simple ray tracer.
 
 Based on https://raytracing.github.io/books/RayTracingInOneWeekend.html
 
-![screenshot](https://user-images.githubusercontent.com/783247/88098957-d8261d00-cb9a-11ea-851d-dcf51a59ee9f.png)
+![screenshot](https://user-images.githubusercontent.com/783247/88166765-16155680-cc18-11ea-9f91-504985aa35db.png)
